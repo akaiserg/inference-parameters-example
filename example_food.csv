@@ -1,0 +1,17 @@
+token,logit,context
+pizza,4.2,"I want to eat"
+burger,3.8,"I want to eat"
+pasta,3.5,"I want to eat"
+sushi,3.1,"I want to eat"
+tacos,2.9,"I want to eat"
+salad,2.3,"I want to eat"
+soup,2.0,"I want to eat"
+sandwich,1.8,"I want to eat"
+ramen,1.5,"I want to eat"
+curry,1.3,"I want to eat"
+steak,1.0,"I want to eat"
+chicken,0.8,"I want to eat"
+fish,0.5,"I want to eat"
+vegetables,0.2,"I want to eat"
+fruit,-0.1,"I want to eat"
+

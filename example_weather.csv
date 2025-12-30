@@ -1,0 +1,8 @@
+token,logit,context
+sunny,3.5,"Tomorrow will be"
+rainy,2.1,"Tomorrow will be"
+cloudy,1.8,"Tomorrow will be"
+snowy,0.9,"Tomorrow will be"
+windy,0.5,"Tomorrow will be"
+foggy,0.2,"Tomorrow will be"
+
